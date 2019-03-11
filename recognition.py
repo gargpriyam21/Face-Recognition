@@ -60,12 +60,7 @@ trainset = np.concatenate((face_dataset, face_labels), axis=1)
 print trainset.shape
 
 names = {
-	0: 'alok',
-	1: 'Lakshay',
-	2: 'aditya',
-	3: 'Neera',
-	4: 'Priyam',
-	5: 'Kohli'
+	0: 
 }
 
 font = cv2.FONT_HERSHEY_SIMPLEX
